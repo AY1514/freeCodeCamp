@@ -1,0 +1,26 @@
+head, body {
+    font-family: tahoma;
+    max-width: 500px;
+    min-width: 300px;
+    margin: auto;
+    }
+  
+  label {
+    display: block;
+  }
+  
+  .submit {
+   background-color: green;
+   border-color: white;
+   color: white;
+   padding: 10px 10px;
+   margin: auto;
+   display: block;
+  }
+  
+  .comment {
+    margin: auto;
+    display: block;
+    padding: 10px;
+  }
+  
